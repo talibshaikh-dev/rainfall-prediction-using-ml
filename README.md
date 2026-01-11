@@ -1,16 +1,5 @@
 # 🌧️ Rainfall Prediction Using Machine Learning
 
-## 🚀 Run on Google Colab
-
-Click the link below to run the project directly on Google Colab:
-
-[Open in Google Colab](https://colab.research.google.com/github/talibshaikh-dev/rainfall-prediction-using-ml/blob/main/Rainfall_code.ipynb)
-
-### Steps
-1. Open the notebook using the above link
-2. Run all cells from the menu (Runtime → Run all)
-3. The dataset will be loaded directly from GitHub
-
 ## 📌 Project Overview
 Rainfall prediction plays a crucial role in agriculture, water resource management, and disaster prevention.  
 This project uses machine learning techniques to predict **annual rainfall** based on historical weather data.  
